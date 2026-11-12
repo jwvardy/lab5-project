@@ -1,0 +1,4 @@
+# .gitignore lab5-project
+*.log
+node-modules/
+.env
