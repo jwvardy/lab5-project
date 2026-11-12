@@ -1,1 +1,2 @@
 Just a text file saying HI.
+This is an update to this file before staging it.
