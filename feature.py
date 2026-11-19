@@ -1,1 +1,2 @@
-This is the file in main before creating a merge
+This is an edit i made in bash for conflict
+
